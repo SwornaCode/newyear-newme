@@ -43,16 +43,26 @@
 .woman-img{
   background-image: url(../images/person.png);
   background-repeat: no-repeat;
-  width: 450px;
-  height: 900px;
-  left: 225px;
+  width: 400px;
+  height:900px;
+  left: 200px;
   top: 900px;
   position: absolute;
+ justify-content: space-between;
 }
 .section-title{
   color:#151414;
   font-size: 40px;
-  position: absolute;
-  margin: 10px 450px 1950px 860px;
-
+  position:absolute;
+  left: 800px;
+  top:100px;
+  
+}
+.des-para{
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  position:absolute;
+  left: 800px;
+  top:200px;
 }
